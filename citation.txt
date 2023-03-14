@@ -1,0 +1,7 @@
+@inproceedings{REPO-074,
+    author = "Guo, Xiefan and Yang, Hongyu and Huang, Di",
+    booktitle = "Proceedings of the IEEE/CVF International Conference on Computer Vision",
+    pages = "14134--14143",
+    title = "{Image Inpainting via Conditional Texture and Structure Dual Generation}",
+    year = "2021"
+}
